@@ -38,7 +38,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implementation:
-<img width="480" height="334" alt="gif (4)" src="https://github.com/user-attachments/assets/182f0bc4-e4aa-4b1f-8b30-68fa6aee6127" />
+
+<img width="480" height="316" alt="gif (5)" src="https://github.com/user-attachments/assets/38682e87-9e6a-4919-bc5e-5a63aaf9bf54" />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  giphy.com
